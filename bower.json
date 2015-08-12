@@ -1,0 +1,34 @@
+{
+  "name": "pure-sass",
+  "version": "0.1.0",
+  main: [
+    "pure/base.scss",
+    "pure/buttons.scss",
+    "pure/forms.scss",
+    "pure/grids.scss",
+    "pure/menus.scss",
+    "pure/tables.scss"
+  ],
+  "homepage": "https://github.com/MarkehMe/pure-sass",
+  "authors": [
+    "Mark Hughes <mark@markeh.me>"
+  ],
+  "description": "Yahoo's Pure CSS library ported to Sass using Sassinate Pure",
+  "keywords": [
+    "yahoo",
+    "pure",
+    "css",
+    "sass",
+    "scss",
+    "sassinate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
