@@ -1,5 +1,18 @@
 # Pure Sass
-This is an up to date version of Pure Sass from the Sassinate-Pure tool.
+This is an up to date version of a Pure.css port created from the Sassinate-Pure tool.
+
+# Installation
+## Download
+You can download released from the GitHub page under Releases:
+https://github.com/MarkehMe/pure-sass/releases
+
+## Git
+Checkout the git repo on GitHub at https://github.com/MarkehMe/pure-sass
+
+## Bower
+You can install pure-sass-port using bower too.
+
+    bower install pure-sass-port
 
 # Examples
 
