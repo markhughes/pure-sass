@@ -1,7 +1,7 @@
 {
   "name": "pure-sass",
   "version": "0.1.0",
-  main: [
+  "main": [
     "pure/base.scss",
     "pure/buttons.scss",
     "pure/forms.scss",
